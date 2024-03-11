@@ -1,5 +1,6 @@
-# Connect your GitHub account
+# Welcome to Loki.code
 
-{% embed url="https://www.youtube.com/watch?v=8uFZyaTBFFE" %}
+Loki.code is a DevOps platform for Web3 teams developing dApps and smart contracts.\
+You can manage your projects, compile smart contracts, deploy them and test and interact with our Playground.
 
-Once you are logged into your Loki.code account you should see your dashboard. At the bottom, in the GitHub section, select Connect to link your GitHub account to Loki.code. Follow the steps and select the repositories that you want to authorize. Once the procedure is complete, you should be redirected to your dashboard.
+Our platform gives you and your team the ability to collaborate on the same projects seamlessly and efficiently.
