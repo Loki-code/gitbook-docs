@@ -12,3 +12,7 @@
 * [Deploy a contract on Buildbear](getting-started/deploy-a-contract-on-buildbear.md)
 * [Test and interact with Playground](getting-started/test-and-interact-with-playground.md)
 * [Organizations](getting-started/organizations.md)
+
+***
+
+* [Make a Deploy Request via Hardhat Script](make-a-deploy-request-via-hardhat-script.md)
