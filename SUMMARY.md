@@ -15,4 +15,4 @@
 
 ***
 
-* [Make a Deploy Request via Hardhat Script](make-a-deploy-request-via-hardhat-script.md)
+* [Deploy Request via Hardhat Script](deploy-request-via-hardhat-script.md)
