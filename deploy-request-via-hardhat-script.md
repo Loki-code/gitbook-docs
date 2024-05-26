@@ -2,7 +2,7 @@
 description: Initiate deploy requests programmatically via your Foundry or Hardhat script
 ---
 
-# Make a Deploy Request via Hardhat Script
+# Deploy Request via Hardhat Script
 
 ### Prerequisite Steps
 
@@ -18,13 +18,13 @@ description: Initiate deploy requests programmatically via your Foundry or Hardh
 
 1. Create a new or open an existing Hardhat project.
    1. Learn how to create a new Hardhat project.
-   2. Loki.code Hardhat project example.
+   2. Loki.code Hardhat project [example](https://github.com/LokiCode-Inc/deploy-request-demo-hardhat/blob/main/scripts/deploy-request.js#L46).
 2. Construct an HTTP POST request.
    1. Install Axios in your Hardhat project. See [reference](https://axios-http.com/docs/intro).
    2. Set up an Axios HTTP POST request. See [reference](https://axios-http.com/docs/post\_example).
    3. Set the URL to: [https://loki-api2.azurewebsites.net/deployment-requests/save](https://loki-api2.azurewebsites.net/deployment-requests/save) .
-   4. Set the body to include the contract data and deploy options. See example.
-   5. Set the headers to include your project's API key. See example.
+   4. Set the body to include the contract data and deploy options. See [example](https://github.com/LokiCode-Inc/deploy-request-demo-hardhat/blob/f36f94b3c212f432dcc4a7c01c7ded5410d457c3/scripts/deploy-request.js#L46).
+   5. Set the headers to include your project's API key. See [example](https://github.com/LokiCode-Inc/deploy-request-demo-hardhat/blob/f36f94b3c212f432dcc4a7c01c7ded5410d457c3/scripts/deploy-request.js#L54).
 3. Run the script. See [reference](https://axios-http.com/docs/post\_example).
 
 ### Aftermath
