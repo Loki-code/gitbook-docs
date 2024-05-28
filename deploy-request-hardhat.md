@@ -7,7 +7,7 @@ description: Initiate deploy requests programmatically via a Hardhat script
 ### Prerequisites
 
 1. [Github connected to Loki](<README (1).md>)
-2. [An existing Loki Github project](getting-started/how-to-create-a-new-project.md)
+2. [An existing Loki project](getting-started/how-to-create-a-new-project.md)[ connected to a Github repository.](getting-started/how-to-create-a-new-project.md)
 
 ### Step 1: Generate an API Key
 
@@ -17,6 +17,7 @@ description: Initiate deploy requests programmatically via a Hardhat script
 4. Click the API Keys tab in the side bar.
 5. Click Generate new token, and follow the steps.
 6. Save your API key in a secure location.
+7. Save the project ID on the top right of the page to use in the deploy request script.
 
 ### Step 2: Execute the Deploy Request
 
