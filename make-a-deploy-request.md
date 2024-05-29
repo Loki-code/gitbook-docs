@@ -1,8 +1,8 @@
 ---
-description: Initiate deploy requests programmatically via a Hardhat script
+description: Send a request for a contract deployment to Loki.code.
 ---
 
-# Deploy Request (Hardhat)
+# Make a Deploy Request
 
 ### Prerequisites
 
@@ -21,8 +21,8 @@ description: Initiate deploy requests programmatically via a Hardhat script
 
 ### Step 2: Execute the Deploy Request
 
-1. Add Loki.code's [deploy request script](https://github.com/LokiCode-Inc/deploy-request-scripts/blob/main/hardhat/hardhat.ts) to your Hardhat project, and follow the direction's in its JSDoc comments.
-2. You can also use [Loki.code's Hardhat example project](https://github.com/LokiCode-Inc/deploy-request-hardhat), and follow the direction's in its README file.
+1. Add the appropriate [deploy request script](https://github.com/LokiCode-Inc/deploy-request-scripts/tree/main) to your project, and follow the directions at the beginning of the file.
+2. You can also get started by using the appropriate [example project](https://github.com/LokiCode-Inc/deploy-request-hardhat), and follow the direction's in the appropriate README file.
 
 ### Step 3: Confirm the Deploy Request
 

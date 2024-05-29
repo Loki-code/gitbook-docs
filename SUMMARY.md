@@ -15,4 +15,4 @@
 
 ***
 
-* [Deploy Request (Hardhat)](deploy-request-hardhat.md)
+* [Make a Deploy Request](make-a-deploy-request.md)
