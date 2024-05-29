@@ -1,5 +1,8 @@
 ---
-description: Send a request for a contract deployment to Loki.code.
+description: >-
+  Initiate and manage contract deployments on Loki.code from your existing
+  development environment, with access to team approvals and comprehensive
+  DevOps tools.
 ---
 
 # Make a Deploy Request
