@@ -32,5 +32,6 @@ description: Initiate deploy requests programmatically via a Hardhat script
 4. Within this tab's content, you now can see all of your deploy requests associated with this project.
 5. Click the Review button.
 6. Confirm the network to deploy to.
-7. Set constructor arguments if needed.
+7. Set constructor arguments if appropriate.
 8. Click the Deploy button to deploy your contract. (If you are part of an organization, you can delegate authorization for who makes the final call to deploy the contract.)
+9. You can now view the details and history of your deployement in the same page's Deployments tab.
