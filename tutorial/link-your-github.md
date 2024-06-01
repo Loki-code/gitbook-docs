@@ -1,5 +1,5 @@
 ---
-description: Manage your repo's smart contracts with Loki.code's DevOps tools.
+description: Manage your repository's contracts with Loki.code's DevOps tools.
 ---
 
 # Link your Github
