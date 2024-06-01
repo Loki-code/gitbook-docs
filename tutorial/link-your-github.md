@@ -2,9 +2,11 @@
 description: Manage your repository's contracts with Loki.code's DevOps tools.
 ---
 
-# Link your Github
+# Link a Github repository
 
 To commence utilizing the refined tools of Loki.code, one must possess a smart contract with which to engage. Loki.code graciously permits the integration of your GitHub repository with its platform, thus enabling you to commence your work on these contracts.
+
+### Steps
 
 Begin by accessing Loki.code's Dashboard. Within the Get Started section, select the option to "Connect GitHub account."
 
