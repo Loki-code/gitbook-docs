@@ -15,7 +15,7 @@
 
 ## Tutorial
 
-* [Link your Github](tutorial/link-your-github.md)
+* [Link a Github repository](tutorial/link-a-github-repository.md)
 * [Create a new project](tutorial/create-a-new-project.md)
 * [Deploy a contract](tutorial/deploy-a-contract.md)
 * [Interact with & test a contract](tutorial/interact-with-and-test-a-contract.md)
