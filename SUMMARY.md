@@ -13,6 +13,11 @@
 * [Test and interact with Playground](getting-started/test-and-interact-with-playground.md)
 * [Organizations](getting-started/organizations.md)
 
-***
+## Tutorial
 
-* [Make a Deploy Request](make-a-deploy-request.md)
+* [Link your Github](tutorial/link-your-github.md)
+* [Create a new project](tutorial/create-a-new-project.md)
+* [Deploy a contract](tutorial/deploy-a-contract.md)
+* [Interact with & test a contract](tutorial/interact-with-and-test-a-contract.md)
+* [Make an Organization](tutorial/make-an-organization.md)
+* [Make a Deploy Request](tutorial/make-a-deploy-request.md)
