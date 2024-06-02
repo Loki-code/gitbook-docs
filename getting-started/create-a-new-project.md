@@ -4,7 +4,7 @@ Projects in Loki.code serve as containers linked to your GitHub repository. They
 
 ### Prerequisites
 
-1. [Github linked to Loki.code](link-your-github.md)
+1. [Github linked to Loki.code](link-a-github-repository.md)
 
 ### Steps
 

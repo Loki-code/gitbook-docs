@@ -1,4 +1,4 @@
-# Organizations
+# Make an Organization
 
 Loki.code is great for managing your deployments and interacting with your contracts as a web3 devops platform. However, the true value of Loki is taking that above and allowing your team to have shared access to your projects to coordinate on dApp management and to save as much time as possible on shipping your dApp from staging to mainnet.
 

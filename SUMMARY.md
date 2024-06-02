@@ -1,23 +1,14 @@
 # Table of contents
 
-## Introduction to loki.code
+## Introduction
 
 * [Welcome to Loki.code](README.md)
 
-## Getting started
+## Getting Started
 
-* [Connect your GitHub account](<README (1).md>)
-* [How to create a new project](getting-started/how-to-create-a-new-project.md)
-* [Compile and deploy a contract](getting-started/compile-and-deploy-a-contract.md)
-* [Deploy a contract on Buildbear](getting-started/deploy-a-contract-on-buildbear.md)
-* [Test and interact with Playground](getting-started/test-and-interact-with-playground.md)
-* [Organizations](getting-started/organizations.md)
-
-## Tutorial
-
-* [Link a Github repository](tutorial/link-your-github.md)
-* [Create a new project](tutorial/create-a-new-project.md)
-* [Deploy a contract](tutorial/deploy-a-contract.md)
-* [Interact with & test a contract](tutorial/interact-with-and-test-a-contract.md)
-* [Make an Organization](tutorial/make-an-organization.md)
-* [Make a Deploy Request](tutorial/make-a-deploy-request.md)
+* [Link a Github repository](getting-started/link-a-github-repository.md)
+* [Create a new project](getting-started/create-a-new-project.md)
+* [Deploy a contract](getting-started/deploy-a-contract.md)
+* [Interact with & test a contract](getting-started/interact-with-and-test-a-contract.md)
+* [Make an Organization](getting-started/make-an-organization.md)
+* [Make a Deploy Request](getting-started/make-a-deploy-request.md)

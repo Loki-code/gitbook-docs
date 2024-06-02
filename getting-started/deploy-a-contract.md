@@ -4,7 +4,7 @@ Loki.code offers an effortless experience for compiling and deploying your contr
 
 ### Prerequisites
 
-1. [Github linked to Loki.code](link-your-github.md)
+1. [Github linked to Loki.code](link-a-github-repository.md)
 2. [An existing project](create-a-new-project.md)
 
 ### Step 1: Compile a contract

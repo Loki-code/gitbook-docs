@@ -17,7 +17,7 @@ By incorporating one of our deploy request scripts into your project, you can se
 
 ### Prerequisites
 
-1. [Github linked to Loki.code](link-your-github.md)
+1. [Github linked to Loki.code](link-a-github-repository.md)
 2. [An existing project](create-a-new-project.md)
 
 ### Step 1: Generate an API Key
