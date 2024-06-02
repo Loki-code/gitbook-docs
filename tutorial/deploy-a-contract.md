@@ -21,7 +21,7 @@ Click on the "Compile" button, and a dialog will appear, allowing you to confirm
 
 Now that your Solidity file has been successfully compiled, let us proceed to deploy it. Click on the "Deploy" tab in the left sidebar, and you will see a user interface similar to the example below.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-02 at 11.55.57 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-03 at 7.23.55 AM.png" alt=""><figcaption></figcaption></figure>
 
 A brief explanation on each tab:
 
@@ -37,7 +37,11 @@ If you have not yet linked your Ethereum wallet to Loki.code, kindly sign into i
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-03 at 6.24.43 AM.png" alt=""><figcaption></figcaption></figure>
 
-To deploy your compiled contract, locate its card within the "Recent Events" tab or the "Compilations" tab. Select the network to which you wish to deploy, input constructor arguments if applicable, and, if all appears satisfactory, click "Deploy" to proceed with deploying your contract. Your wallet provider should then present a confirmation dialog to finalize the deployment. Below, you will find an example using Metamask.
+To deploy your compiled contract, locate its card within the "Recent Events" tab or the "Compilations" tab.&#x20;
+
+Select the network to which you wish to deploy, input constructor arguments if applicable, and, if all appears satisfactory, click "Deploy" to proceed with deploying your contract.&#x20;
+
+Your wallet provider should then present a confirmation dialog to finalize the deployment. Below, you will find an example using Metamask.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-03 at 6.50.36 AM.png" alt=""><figcaption></figcaption></figure>
 
