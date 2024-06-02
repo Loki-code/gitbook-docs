@@ -35,7 +35,7 @@ A brief explanation on each tab:
 
 If you have not yet linked your Ethereum wallet to Loki.code, kindly sign into it via the "Connect Wallet" button located at the top right. This step is essential for deploying your contract.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-03 at 6.24.43 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-03 at 7.27.57 AM.png" alt=""><figcaption></figcaption></figure>
 
 To deploy your compiled contract, locate its card within the "Recent Events" tab or the "Compilations" tab.&#x20;
 
