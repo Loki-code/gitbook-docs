@@ -30,12 +30,16 @@ By incorporating one of our deploy request scripts into your project, you can se
 6. Save your API key in a secure location.
 7. Save the project ID on the top right of the page to use in the deploy request script.
 
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-04 at 4.57.11 AM.png" alt=""><figcaption><p>Creating a new token interface</p></figcaption></figure>
+
 ### Step 2: Execute the Deploy Request
 
 Deploy requests are essentially API calls that transmit your contract data and deployment options to your project on Loki.code. To facilitate this process, you may refer to this [repository](https://github.com/LokiCode-Inc/deploy-request), which includes examples of Hardhat and Foundry projects that implement this in a script.
 
 1. If you already possess a project, click on the appropriate example script link in the README, and copy that file into your project. For instance, this is the [script](https://github.com/LokiCode-Inc/deploy-request/blob/main/hardhat/scripts/deploy-request.ts) for Hardhat.
 2. If you do not have a pre-existing project, click on the appropriate example project link and follow the instructions in that project's README file. For instance, this is the [reference project](https://github.com/LokiCode-Inc/deploy-request/tree/main/hardhat) for Hardhat.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-04 at 4.59.34 AM.png" alt=""><figcaption><p>A deploy request script in a Hardhat project</p></figcaption></figure>
 
 ### Step 3: Confirm the Deploy Request
 
@@ -48,3 +52,5 @@ Deploy requests are essentially API calls that transmit your contract data and d
 7. Set constructor arguments if necessary.
 8. Click the "Deploy" button to deploy your contract. If you are part of an organization, you may delegate the authorization for the final deployment decision.
 9. You can now view the details and history of your deployment in the "Deployments" tab on the same page.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-04 at 5.07.41 AM.png" alt=""><figcaption><p>Deploy requests awaiting review</p></figcaption></figure>
