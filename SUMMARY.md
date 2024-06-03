@@ -10,5 +10,5 @@
 * [Create a new project](tutorial/create-a-new-project.md)
 * [Deploy a contract](tutorial/deploy-a-contract.md)
 * [Interact with & test a contract](tutorial/interact-with-and-test-a-contract.md)
-* [Make an Organization](tutorial/make-an-organization.md)
+* [Collaborate with your Organization](tutorial/collaborate-with-your-organization.md)
 * [Make a Deploy Request](tutorial/make-a-deploy-request.md)

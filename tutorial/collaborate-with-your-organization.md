@@ -1,4 +1,4 @@
-# Make an Organization
+# Collaborate with your Organization
 
 ### What is an Organization?
 
@@ -6,7 +6,7 @@ Loki.code excels at managing your deployments and interacting with your contract
 
 With shared access to a project, Organizations allow team members with different roles to contribute seamlessly and execute a successful deployment onto mainnet. Developers can submit deploy requests to Loki.code through a simple API call, contract testers can deploy these requests to a testnet and interact with various functions and states, and finally, the team or product manager can review a deploy request and approve the deployment once it is deemed secure.
 
-### Part 1: Upgrade to Loki.code PRO
+### Step 1: Upgrade to Loki.code PRO
 
 From the Dashboard, click on "Organization" in the sidebar. If you have not yet upgraded to Loki.code PRO, you will be directed to the appropriate page. Click on "Upgrade."
 
@@ -26,7 +26,7 @@ You will then be guided through the steps to upgrade your account in order to ac
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-04 at 3.44.35 AM.png" alt=""><figcaption></figcaption></figure>
 
-### Part 2: Create a new Organization
+### Step 2: Create a new Organization
 
 Once you have upgraded, the Organization page will display both a "Create Organization" button and a "New Organization" button in the top right corner. Click either button to create a new organization.
 
@@ -46,7 +46,7 @@ The final result.
 
 Congratulations, you have successfully created an organization!
 
-### Part 3: Create a new Organization Project
+### Step 3: Create a new Organization Project
 
 To begin creating a project within that organization:&#x20;
 
