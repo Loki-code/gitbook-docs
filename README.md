@@ -19,7 +19,7 @@ Loki.code provides the following DevOps tools:
 * Deployer
 * Templates
 
-To embark on your journey with Loki.code, we cordially invite you to follow our comprehensive tutorial.
+To embark on your journey with Loki.code, we cordially invite you to follow our comprehensive [tutorial](broken-reference).
 
 For any inquiries, please contact the distinguished Loki.code team at [adam@lokicodeio](mailto:adam@lokicode.io).
 
