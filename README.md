@@ -21,5 +21,5 @@ Loki.code provides the following DevOps tools:
 
 To embark on your journey with Loki.code, we cordially invite you to follow our comprehensive [tutorial](broken-reference).
 
-For any inquiries, please contact the distinguished Loki.code team at [adam@lokicode.io](mailto:adam@lokicode.io).
+For any inquiries, please contact our distinguished Loki.code COO at [adam@lokicode.io](mailto:adam@lokicode.io).
 
