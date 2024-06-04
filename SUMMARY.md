@@ -4,11 +4,11 @@
 
 * [Welcome to Loki.code](README.md)
 
-## Tutorial
+## Quick Start Guide
 
-* [Link a Github Repository](tutorial/link-a-github-repository.md)
-* [Create a New Project](tutorial/create-a-new-project.md)
-* [Deploy a Contract](tutorial/deploy-a-contract.md)
-* [Interact with & Test a Contract](tutorial/interact-with-and-test-a-contract.md)
-* [Collaborate with your Organization](tutorial/make-an-organization.md)
-* [Make a Deploy Request](tutorial/make-a-deploy-request.md)
+* [Link a Github Repository](quick-start-guide/link-a-github-repository.md)
+* [Create a New Project](quick-start-guide/create-a-new-project.md)
+* [Deploy a Contract](quick-start-guide/deploy-a-contract.md)
+* [Interact with & Test a Contract](quick-start-guide/interact-with-and-test-a-contract.md)
+* [Collaborate with your Organization](quick-start-guide/collaborate-with-your-organization.md)
+* [Make a Deploy Request](quick-start-guide/make-a-deploy-request.md)

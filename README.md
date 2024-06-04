@@ -6,7 +6,7 @@ description: >-
 
 # Welcome to Loki.code
 
-_To promptly begin using Loki.code, kindly refer to our_ [_Quick Start Guide_](tutorial/link-a-github-repository.md)_._
+_To promptly begin using Loki.code, kindly refer to our_ [_Quick Start Guide_](quick-start-guide/link-a-github-repository.md)_._
 
 Loki.code elevates your smart contract development environment with an array of sophisticated DevOps tools, meticulously designed for the proficient management of smart contracts and their deployments. Its features are exceptionally advantageous for web3 teams, presenting a suite of robust tools to streamline the entire smart contract development lifecycle.
 
