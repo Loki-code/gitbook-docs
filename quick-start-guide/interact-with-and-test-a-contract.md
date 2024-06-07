@@ -1,4 +1,4 @@
-# Interact with & test a contract
+# Interact with & Test a Contract
 
 Once you have deployed your contract through Loki.code, you may access its Playground. The Playground is a user interface that allows you to interact with your contract by making calls and transactions, and observing its state update in real time.
 
@@ -7,6 +7,10 @@ Once you have deployed your contract through Loki.code, you may access its Playg
 1. [Github linked to Loki.code](link-a-github-repository.md)
 2. [An existing project](create-a-new-project.md)
 3. [A contract deployed through Loki.code](deploy-a-contract.md)
+
+### Video Demonstration
+
+{% embed url="https://youtu.be/KNFhzNYW1hk" %}
 
 ### Steps
 

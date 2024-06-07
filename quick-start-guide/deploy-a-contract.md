@@ -1,4 +1,4 @@
-# Deploy a contract
+# Deploy a Contract
 
 Loki.code offers an effortless experience for compiling and deploying your contracts through its user interface. The primary advantage of deploying with Loki.code is the ability to meticulously track your deployment history and access Loki.code's Playground, which provides an interface to interact with your contracts post-deployment.
 
@@ -6,6 +6,10 @@ Loki.code offers an effortless experience for compiling and deploying your contr
 
 1. [Github linked to Loki.code](link-a-github-repository.md)
 2. [An existing project](create-a-new-project.md)
+
+### Video Demonstration
+
+{% embed url="https://youtu.be/6THqNr3XFR4" %}
 
 ### Step 1: Compile a contract
 

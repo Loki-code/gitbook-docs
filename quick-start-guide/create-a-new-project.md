@@ -1,10 +1,14 @@
-# Create a new project
+# Create a New Project
 
 Projects in Loki.code serve as containers linked to your GitHub repository. They house your smart contracts, compilations, deploy history, deploy requests, playgrounds, and, for Organization Projects, the associated team members.
 
 ### Prerequisites
 
 1. [Github linked to Loki.code](link-a-github-repository.md)
+
+### Video Demonstration
+
+{% embed url="https://youtu.be/SsX_Ct9Qjwk" %}
 
 ### Steps
 
