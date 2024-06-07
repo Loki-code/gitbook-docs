@@ -4,7 +4,7 @@ description: Manage your repository's contracts with Loki.code's DevOps tools.
 
 # Link a Github Repository
 
-[https://youtu.be/ISHqDVpGOX8](https://youtu.be/ISHqDVpGOX8)
+{% embed url="https://youtu.be/ISHqDVpGOX8" %}
 
 To commence utilizing the refined tools of Loki.code, one must possess a smart contract with which to engage. Loki.code graciously permits the integration of your GitHub repository with its platform, thus enabling you to commence your work on these contracts.
 
