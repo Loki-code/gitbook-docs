@@ -15,6 +15,10 @@ For most developers, it is more convenient to use Loki.code in conjunction with 
 
 By incorporating one of our deploy request scripts into your project, you can send deploy requests for your contract to one of your projects on Loki.code. From there, you or an authorized team member can approve the deployment. Once approved, the deployment details will be added to the project's history, and you will have the ability to interact with it in Loki.code's playground.
 
+### Video Demonstration
+
+{% embed url="https://youtu.be/_N7kZL1pe8Q" %}
+
 ### Prerequisites
 
 1. [Github linked to Loki.code](link-a-github-repository.md)
