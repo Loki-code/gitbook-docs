@@ -21,5 +21,5 @@ Loki.code provides the following DevOps tools:
 * Deployer
 * Templates
 
-For any inquiries, please contact our co-founder, [Adam](mailto:adam@lokicode.io). He will be pleased to respond via email or arrange a call.
+For any inquiries, please contact [support](mailto:adam@lokicode.io).
 
