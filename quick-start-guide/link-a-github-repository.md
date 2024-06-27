@@ -8,7 +8,7 @@ To commence utilizing the refined tools of Loki.code, one must possess a smart c
 
 ### Video Demonstration
 
-{% embed url="https://youtu.be/ISHqDVpGOX8" %}
+{% embed url="https://youtu.be/Cp5IWRJp4LM" %}
 
 ### Steps
 
