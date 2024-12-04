@@ -24,15 +24,14 @@ Following this, you will be presented with a list of repositories that you have 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-02 at 12.29.49 AM.png" alt=""><figcaption></figcaption></figure>
 
-Upon selecting one of the two options, you shall be redirected to your project's page. On this page, you will observe a sidebar with three distinguished options:
+Upon selecting one of the two options, you shall be redirected to your project's page. On this page, you will observe a sidebar with two distinguished options:
 
-1. **Files**: Here, you may peruse the files within your GitHub repository. Should you select a Solidity file, you will be afforded the option to compile it.
-2. **Deploy**: This section allows you to deploy your compiled contracts, review your deployment history, and approve or reject incoming deploy requests.
-3. **API Keys**: In this section, you may generate API keys, which can be provided to your development environment, such as Hardhat or Foundry, to facilitate sending deploy requests to be incorporated into your project.
+1. **Deploy**: This section allows you to deploy your compiled contracts, review your deployment history, and approve or reject incoming deploy requests.
+2. **API Keys**: In this section, you may generate API keys, which can be provided to your development environment, such as Hardhat or Foundry, to facilitate sending deploy requests to be incorporated into your project.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-02 at 1.44.33 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-12-04 at 6.17.56 PM.png" alt=""><figcaption></figcaption></figure>
 
-To view all of your projects, begin at the Dashboard and click on "Projects" in the sidebar. You will be directed to a page where you may access any one of your projects.
+To view all of your projects, begin at the Dashboard again and click on "Projects" in the sidebar. You will be directed to a page where you may access any one of your projects.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-02 at 2.12.04 AM.png" alt=""><figcaption></figcaption></figure>
 
